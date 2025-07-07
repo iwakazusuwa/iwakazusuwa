@@ -22,4 +22,3 @@
 - Matlab
 - Power BI
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwakazusuwa&show_icons=true&theme=default)
