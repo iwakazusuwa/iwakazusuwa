@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to my GitHub!  👋
 
-<!--
-**iwakazusuwa/iwakazusuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 **経験業務**
+- データ分析
+- データ可視化
+- 機械学習
+- 業務DX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **興味のあること**
+- AI
+- セキュリティ
+
+🛠 **Language**
+- Python
+- SQL
+- VBA
+
+📫 **Tool**
+- Alteryx
+- SPSS
+- Matlab
+- Power BI
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwakazusuwa&show_icons=true&theme=default)
