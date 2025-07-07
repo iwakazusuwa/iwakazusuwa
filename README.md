@@ -10,16 +10,21 @@
 - AI
 - セキュリティ
 
-🛠 **Language**
+🛠 **言語**
 - Python
 - SQL
 - VBA
+- HTML
 
-📫 **Tool**
+📫 **ツール**
 - Alteryx
 - SPSS
 - Matlab
 - Power BI
+
+🌐 **他**
+- AWS
+- SQLｻｰﾊﾞｰ
 
 
 
