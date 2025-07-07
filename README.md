@@ -11,12 +11,12 @@
 - AI
 - セキュリティ
 
-🛠 **Language**
+🛠 **言語**
 - Python
 - SQL
 - VBA
 
-📫 **Tool**
+📫 **ツール**
 - Alteryx
 - SPSS
 - Matlab
